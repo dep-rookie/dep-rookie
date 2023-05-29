@@ -2,7 +2,7 @@ name: Generate Datas
 
 on: [ push ]
 permissions: read-all
-schedule: # execute every 24 hours
+    schedule: 
     - cron: "* */24 * * *"
       workflow_dispatch:
 
