@@ -2,7 +2,7 @@
 
 
 ![Fer GitHub stats](https://github-readme-stats.vercel.app/api?username=dep-rookie&show_icons=true&theme=tokyonight)
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dep-rookie&show_icons=true&theme=tokyonight&size_weight=0.5&count_weight=0.5&layout=compact)](https://github.com/dputy/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dep-rookie&show_icons=true&theme=tokyonight&size_weight=0.5&count_weight=0.5&layout=compact)](https://github.com/dep-rookie/github-readme-stats)
 
 
 💻 
