@@ -39,11 +39,6 @@
                  
 </div>
 
-## Workspace
-<div>
-  <img align="center" alt="Fer-Lightroom" height="30" width="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img align="center" alt="Fer-Lightroom" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
- </div><br>
  
  ## Games
  <div> 
