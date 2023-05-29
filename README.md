@@ -63,5 +63,5 @@
   
 </div>
 
-
-
+![Snake Animation](https://github.com/dputy/dputy/blob/output/github-contribuition-grid-snake.svg)
+  
