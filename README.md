@@ -21,7 +21,7 @@
 
     
 
- #### Gamer 🎮
+ ### Gamer 🎮
  <div> 
  <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white"></a>
  <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white"></a>
@@ -31,7 +31,7 @@
  </div>
  
  
- ## Social 📱
+ ### Social 📱
 <div> 
   <a href="https://www.instagram.com/fer_piconi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:fernandapiconi@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
