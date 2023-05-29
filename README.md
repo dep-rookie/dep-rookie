@@ -59,7 +59,7 @@
 <a href="https://www.clipstudio.net/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/691/290/png-transparent-clip-studio-paint-macos-bigsur-icon-thumbnail.png" alt="clipstudio" width="40" height="40"/></a>
    
 
-  ![Snake Animation](https://github.com/dep-rookie/dep-rookie/blob/output/github-contribuition-grid-snake.svg)
+  ![Snake Animation](https://github.com/dep-rookie/dep-rookie/blob/output/github-contribution-grid-snake.svg)
 
   
  
