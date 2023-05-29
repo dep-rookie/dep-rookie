@@ -9,7 +9,7 @@ schedule: # execute every 24 hours
 jobs:
   build:
     name: Jobs to update datas
-    runs-on: self-hosted, linux, x64, gpu
+    runs-on: self-hosted, windows, x64, gpu
     steps:
       # Snake Animation
       - uses: Platane/snk@master
