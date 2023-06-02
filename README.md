@@ -23,45 +23,11 @@
 
 
 
-<h4 align="center"> 💻 Linguagens e Ferramentas:</h4>
-<details>
-<summary>Detalhes</summary>
-<br />
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" align="center" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" align="center" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" align="center" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" align="center" width="60" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" align="center" width="60" height="50"/> 
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" align="center" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" align="center" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" align="center" width="40" height="40"/> 
-  <img src="https://user-images.githubusercontent.com/12417677/97433592-a9e07800-1915-11eb-8f0b-f4e8cdf8babb.png" alt="unreal" align="center" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" align="center" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" align="center" width="40"   height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" align="center" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" align="center" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" align="center" width="40" height="40"/>
----
-  
-<h3 align="center"> 🎨 Design:</h3>
-  <details>
-<summary>Detalhes</summary>
-<br />
-    
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" style="plastic" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="40"/>
-   <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="photoshop" width="40" height="40"/>
-   <img src="https://github.com/dep-rookie/dep-rookie/assets/80229492/488a9fa6-b5c5-4c29-8ab3-9162a4d104c3" alt="lightroom" width="40" height="40"/>
-   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" alt="aftereffects" width="40" height="40"/>
-  <img src="https://github.com/dep-rookie/dep-rookie/assets/80229492/cd6ae7f8-7c22-45a7-8f3a-85c475f5ad9a" alt="premiere" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Affinity_designer_icon_2019.png" alt="affinityd" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Affinity_Photo_V2_icon.svg" alt="affinityp" width="40" height="40"/>
-  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
-   ---
-   <h4 align="left"> 🎨 Digital Art:</h4>
- </a> <a href="https://www.procreate.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/Procreate-icon.png" alt="procreate" width="40" height="40"/>
-<a href="https://www.clipstudio.net/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/691/290/png-transparent-clip-studio-paint-macos-bigsur-icon-thumbnail.png" alt="clipstudio" width="40" height="40"/></a>
+<h3 align="center"> 💻 Linguagens e Ferramentas:</h3>
+
+<h4 align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="50"/> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40"   height="40"/> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" style="plastic" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="photoshop" width="40" height="40"/> <img src="https://github.com/dep-rookie/dep-rookie/assets/80229492/488a9fa6-b5c5-4c29-8ab3-9162a4d104c3" alt="lightroom" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" alt="aftereffects" width="40" height="40"/> <img src="https://github.com/dep-rookie/dep-rookie/assets/80229492/cd6ae7f8-7c22-45a7-8f3a-85c475f5ad9a" alt="premiere" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Affinity_designer_icon_2019.png" alt="affinityd" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Affinity_Photo_V2_icon.svg" alt="affinityp" width="40" height="40"/> <img src="https://user-images.githubusercontent.com/12417677/97433592-a9e07800-1915-11eb-8f0b-f4e8cdf8babb.png" alt="unreal" width="40" height="40"/> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/Procreate-icon.png" alt="procreate" width="40" height="40"/> <img src="https://w7.pngwing.com/pngs/691/290/png-transparent-clip-studio-paint-macos-bigsur-icon-thumbnail.png" alt="clipstudio" width="40" height="40"/></a></h4>
    
 
   ![Snake Animation](https://github.com/dep-rookie/dep-rookie/blob/output/github-contribution-grid-snake.svg)
