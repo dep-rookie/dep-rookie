@@ -1,4 +1,4 @@
-![constelation]()
+
 # ![Hi, I'm Fer](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=21+&duration=2000&center=true&vCenter=true&multiline=true&width=200&height=40&lines=Hi%2C+I'm+Fer!👋🏼;+;+)
 <h3 align="center">Computer Science Student</h3>
 
@@ -6,11 +6,11 @@
   <img align="right" alt="coding_img" width="380" src="giphy.gif">
   </p>
 
-- 🌱 I’m currently learning **C++, React**
+- 🌱  **C++, React**
 
-- 📫 How to reach me **fernandapiconi@hotmail.com**
+- 📫  **fernandapiconi@hotmail.com**
 
-- ⚡ Fun fact **addicted to video games**
+- ⚡  **addicted to video games**
 
 
 <p align="left">
